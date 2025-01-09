@@ -1,5 +1,8 @@
 # ReactJS Project Setup Guide
 
+![ScreenShot Tool -20250109003633](https://github.com/user-attachments/assets/7e058849-3624-46da-a97a-0af457035b40)
+
+
 This README documents the process of setting up a ReactJS project on a Linux system, the issues encountered during the setup, and how they were resolved.
 
 ## **1. Prerequisites**
